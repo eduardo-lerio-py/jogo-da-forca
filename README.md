@@ -8,10 +8,10 @@ Python 3.6 ou superior. Não precisa instalar nenhuma biblioteca.
 
 ## Como rodar
 
-Deixe `forca.py` e `palavras.txt` na mesma pasta e execute:
+Deixe `jogo_da_forca.py` e `palavras.txt` na mesma pasta e execute:
 
 ```
-python forca.py
+python jogo_da_forca.py
 ```
 
 ## Como jogar
